@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Equation Check</title>
+    
+  </head>
+  <body>
+    <script>
+	function loading(){
+	  document.getElementById("load").style = "display:bruh"
+	}
+	</script>
+    <h2>Graph your 3D Equation in AR!</h1>
+    <form action="http://192.168.1.186:8000/equation" method="post">
+    Your 3D Equation in terms of z: <input id="equation" name="equation">
+    <Br>
+    <h3>Graph Window:</h3>
+    X Min: <input id="xmin" name="xmin"><Br>
+    X Max: <input id="xmax" name="xmax"><Br>
+    Y Min: <input id="ymin" name="ymin"><Br>
+    Y Max: <input id="ymax" name="ymax"><Br>
+
+    <br><br>
+    <input type="submit" onclick="loading()">
+    <br>
+    <p name="load" id="load" style="display:none">Loading...</p>
+    </form>
+    <br><br>
+
+  </body>
+</html>
