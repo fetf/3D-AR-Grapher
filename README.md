@@ -3,8 +3,7 @@ Hackathon Project: Graph your 3D equations in AR!
 
 Submitted to [ThetaHacks 2021](https://thetahacks.tech/) ([Devpost](https://thetahacks.devpost.com/))  
 See full project [here](https://devpost.com/software/3d-ar-grapher)  
-[Video Demo](https://youtu.be/tCQJtKbdkGI)  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tCQJtKbdkGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+[![Video Demo](https://img.youtube.com/vi/tCQJtKbdkGI/maxresdefault.jpg)](https://youtu.be/tCQJtKbdkGI)  
 ## Inspiration
 We wanted to combine the powers of wolfram and echoar and make a useful program for students, so we thought of 3d graphing in AR.
 
