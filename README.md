@@ -1,7 +1,7 @@
 # 3D-AR-Grapher
 Hackathon Project: Graph your 3D equations in AR!
 
-Written by Richard Sbaschnig, Victor Liu, Julian Chavez
+Written by Richard Sbaschnig, Victor Liu, Julian Chavez  
 Submitted to [ThetaHacks 2021](https://thetahacks.tech/) ([Devpost](https://thetahacks.devpost.com/))  
 See full project [here](https://devpost.com/software/3d-ar-grapher)  
 [Video Demo](https://youtu.be/tCQJtKbdkGI)  
