@@ -6,22 +6,22 @@ Submitted to [ThetaHacks 2021](https://thetahacks.tech/) ([Devpost](https://thet
 See full project [here](https://devpost.com/software/3d-ar-grapher)  
 [Video Demo](https://youtu.be/tCQJtKbdkGI)  
 ## Inspiration
-We wanted to combine the powers of wolfram and echoar and make a useful program for students, so we thought of 3d graphing in AR.
+We wanted to make a useful program for students by using both Wolfram and EchoAR APIs, so we thought of 3D graphing in AR.
 
 ## What it does
-You input a 3d equation and the graph window size, and the website will take you to an AR 3d model of the graph.
+On the website, you input a 3D equation and the graph window size, and the website will display the 3D model of the graph in AR.
 
 ## How I built it
-We used HTML, javascript, and flask for the websites. We used the wolfram client library for python, echo ar, and flask for receiving website data, creating a 3d model from it, and displaying the result as an AR 3d object.
+We used HTML, Javascript, and Flask for the website. We used the Wolfram Client Library for Python, EchoAR API, and Flask for receiving website data, creating a 3D model from it, and displaying the result as an AR 3D object.
 
 ## Challenges I ran into
-We had trouble converting website data into a format the wolfram client library could understand, and with uploading and directing the user to the AR 3d model. However, we did find solutions to all these challenges.
+We had trouble converting website data into a format the Wolfram Client Library could understand, and with uploading and directing the user to the AR 3D model. However, we did find solutions to all these challenges.
 
 ## Accomplishments that I'm proud of
-We made the integration between wolfram client library and echo ar run smoothly, and we made the websites available to any device on the network through flask.
+We made the integration between the Wolfram Client Library and EchoAR run smoothly, and we made the website available to any device on the local network through Flask.
 
 ## What We learned
-We the ins and outs of the wolfram and echo ar APIs, and how to create web servers with flask.
+We learned the ins and outs of the Wolfram and EchoAR APIs, along with how to create web servers with Flask.
 
 ## What's next for 3D AR Grapher
 We would improve the UI to look more appealing, and we would offer users more customization for their graphs.
